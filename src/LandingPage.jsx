@@ -55,7 +55,7 @@ export default function LandingPage() {
 
       <section className="bg-[#ffffff] py-12 px-6">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Para quem atendemos</h2>
+          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 text-lg">
             <li>🏢 Síndicos</li>
             <li>🏗️ Administradoras de condomínios</li>
