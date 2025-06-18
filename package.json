@@ -2,6 +2,10 @@
   "name": "no-em-pingo-landing",
   "version": "1.0.0",
   "private": true,
+   "engines": {
+    "node": "22.16.0",
+    "npm": "10.9.2"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
