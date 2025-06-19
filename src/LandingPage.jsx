@@ -5,7 +5,7 @@ import React from "react";
 export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
-      <header className="bg-[#0d68c9] text-center text-white">
+      <header className="bg-[#0d68c9] text-center text-white h-10vh">
         <img src="https://i.ibb.co/C5dpqxMx/Captura-de-tela3-2025-06-18-214637.jpg" alt="" className="w-full h-90%" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
