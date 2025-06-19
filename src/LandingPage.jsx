@@ -6,17 +6,7 @@ export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#0d68c9] py-16 px-6 text-center text-white">
-        <div className="flex">
-          <div></div>
-          <div>
-            <div>Nó em pingo</div>
-            <div>D'água</div>
-            <div>Consultoria em Impermeabilização</div>
-            <div>Soluções inteligentes, seguras e ficazes para condomínios</div>
-            <div>que buscar proteger e valorizar seus imóveis</div>
-          </div>  
-        </div>
-        <img src="https://i.ibb.co/ynSmdp9T/Captura-de-tela-2025-06-18-214637.jpg" alt="" className="w-90% h-90%" />
+        <img src="https://i.ibb.co/v404zfC8/Captura2-de-tela-2025-06-18-214637.jpg" alt="" className="w-90% h-90%" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
         </h1>
