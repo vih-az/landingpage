@@ -6,13 +6,13 @@ export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#0d68c9] py-16 px-6 text-center text-white">
-        <img src="https://i.ibb.co/ynSmdp9T/Captura-de-tela-2025-06-18-214637.jpg" alt="" className="w-full h-96" />
-        <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
+        <img src="https://i.ibb.co/ynSmdp9T/Captura-de-tela-2025-06-18-214637.jpg" alt="" className="w- h-96" />
+        {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto">
           Consultoria técnica especializada com mais de 15 anos de experiência. Diagnóstico preciso, economia real, valorização do seu patrimônio.
-        </p>
+        </p> */}
         <div className="mt-6 flex flex-col md:flex-row justify-center gap-4">
           {/* <Button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white"> */}
             <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
