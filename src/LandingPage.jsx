@@ -13,7 +13,7 @@ export default function LandingPage() {
         <p className="text-lg md:text-xl max-w-2xl mx-auto">
           Consultoria técnica especializada com mais de 15 anos de experiência. Diagnóstico preciso, economia real, valorização do seu patrimônio.
         </p> */}
-        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9]">
+        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-10px">
           {/* <Button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white"> */}
             <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
           {/* </Button> */}
