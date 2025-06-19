@@ -5,7 +5,7 @@ import React from "react";
 export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
-      <header className="bg-[#0d68c9] relative w-full h-[500px] text-center text-white flex flex-col justify-center">
+      <header className="bg-[#ffffff] relative w-full h-[500px] text-center text-white justify-center flex flex-col">
         <img src="https://i.ibb.co/Kc8bgqkC/png-4.png" alt="" className="object-cover w-full h-full" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
@@ -13,7 +13,7 @@ export default function LandingPage() {
         <p className="text-lg md:text-xl max-w-2xl mx-auto">
           Consultoria técnica especializada com mais de 15 anos de experiência. Diagnóstico preciso, economia real, valorização do seu patrimônio.
         </p> */}
-        <div className="mt-6 flex flex-col md:flex-row justify-center gap-4">
+        <div className="mt-6 flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9]">
           {/* <Button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white"> */}
             <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
           {/* </Button> */}
