@@ -5,8 +5,8 @@ import React from "react";
 export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
-      <header className="bg-[url(https://i.ibb.co/20pczWvt/Captura4-de-tela-2025-06-18-214637.jpg)] bg-cover bg-no-repeat text-center text-white h-96">
-        {/* <img src="https://i.ibb.co/C5dpqxMx/Captura-de-tela3-2025-06-18-214637.jpg" alt="" className="w-full h-90%" /> */}
+      <header className="bg-[url()] bg-cover bg-no-repeat text-center text-white h-96">
+        <img src="https://i.ibb.co/20pczWvt/Captura4-de-tela-2025-06-18-214637.jpg" alt="" className="w-full h-90%" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
         </h1>
