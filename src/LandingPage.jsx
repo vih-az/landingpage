@@ -6,7 +6,7 @@ export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#ffffff] relative w-full h-[500px] text-center text-white justify-center flex flex-col content-between">
-        <img src="https://i.ibb.co/Kc8bgqkC/png-4.png" alt="" className="object-cover w-full h-full" />
+        <img src="https://i.ibb.co/fVttv3rJ/png.png" alt="" className="object-cover w-full h-full" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
         </h1>
