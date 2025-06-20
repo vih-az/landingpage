@@ -15,7 +15,7 @@ export default function LandingPage() {
         </p> */}
         <h1 className="text-[#0d68c9]">Soluções inteligentes, seguras e eficazes para condomínios</h1>
         <h1 className="text-[#0d68c9]">que buscam proteger e valorizar seus imóveis</h1>
-        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-10">
+        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-8">
           {/* <Button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white"> */}
             <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
           {/* </Button> */}
@@ -26,7 +26,9 @@ export default function LandingPage() {
       </header>
 
       <section className="py-12 px-6 max-w-4xl mx-auto">
-        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Sobre a Nó em Pingo d’Água</h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>impermeabilização</h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
         <p className="text-lg">
           Somos uma consultoria técnica independente especializada em impermeabilização preventiva e corretiva. Atuamos com diagnóstico, laudos e fiscalização de obras, com foco em soluções duradouras, redução de custos e valorização de imóveis.
         </p>
