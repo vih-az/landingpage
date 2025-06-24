@@ -28,7 +28,15 @@ export default function LandingPage() {
       </header>
 
       <section className="py-12 px-6 max-w-4xl mx-auto">
-        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Sobre a Nó em Pingo d’Água</h2>
+        <div>
+            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Sobre a Nó em Pingo d’Água</h2>
+        </div>
+        <p>
+          ✅ 80% das patologias em edificações têm origem na umidade.
+          ✅ Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
+          ✅ 90% dos problemas são causados por erros de aplicação, não de produto.
+          ✅ Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
+        </p>
         <p className="text-lg">
           Somos uma consultoria técnica independente especializada em impermeabilização preventiva e corretiva. Atuamos com diagnóstico, laudos e fiscalização de obras, com foco em soluções duradouras, redução de custos e valorização de imóveis.
         </p>
