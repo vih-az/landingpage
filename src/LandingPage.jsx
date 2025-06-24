@@ -13,7 +13,7 @@ export default function LandingPage() {
         <p className="text-lg md:text-xl max-w-2xl mx-auto">
           Consultoria técnica especializada com mais de 15 anos de experiência. Diagnóstico preciso, economia real, valorização do seu patrimônio.
         </p> */}
-        <div className="text-[#ffffff] ml-10 bg-[#0d68c9] w-fit justify-center">
+        <div className="text-[#ffffff] ml-10 bg-[#0d68c9] w-fit justify-center flex-col">
           <h1 >Soluções inteligentes, seguras e eficazes para condomínios</h1>
           <h1 >que buscam proteger e valorizar seus imóveis</h1>
         </div>
