@@ -14,7 +14,7 @@ export default function LandingPage() {
           Consultoria técnica especializada com mais de 15 anos de experiência. Diagnóstico preciso, economia real, valorização do seu patrimônio.
         </p> */}
         <h1 className="text-[#0d68c9] ml-10 bg-[#0d68c9] w-fit">Soluções inteligentes, seguras e eficazes para condomínios</h1>
-        <h1 className="text-[#0d68c9] ml-10">que buscam proteger e valorizar seus imóveis</h1>
+        <h1 className="text-[#0d68c9] ml-10 bg-[#0d68c9] w-fit">que buscam proteger e valorizar seus imóveis</h1>
         <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-16">
           {/* <Button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white"> */}
             <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
