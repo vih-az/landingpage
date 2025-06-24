@@ -27,25 +27,28 @@ export default function LandingPage() {
         </div>
       </header>
 
-      <section className="py-12 px-6 max-w-4xl mx-auto flex">
+      <section className="py-12 px-6 max-w-4xl mx-auto">
         <div>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
         </div>
-        <div>
-          <p>
+        <div className="flex">
+          <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
+          <div>
+            <p>
             ✅ 80% das patologias em edificações têm origem na umidade.
-          </p>
-          <p>
-            ✅ Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
-          </p>
-          <p>
-            ✅ 90% dos problemas são causados por erros de aplicação, não de produto.
-          </p>
-          <p>
-            ✅ Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
-          </p>
+            </p>
+            <p>
+              ✅ Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
+            </p>
+            <p>
+              ✅ 90% dos problemas são causados por erros de aplicação, não de produto.
+            </p>
+            <p>
+              ✅ Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
+            </p>
+          </div>
         </div>
       </section>
 
