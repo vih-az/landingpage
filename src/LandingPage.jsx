@@ -28,7 +28,7 @@ export default function LandingPage() {
       </header>
 
       <section className="py-12 px-6 max-w-4xl mx-auto">
-        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Sobre a Nó em Pingo d’Água  \n dlsfsd</h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Sobre a Nó em Pingo d’Água</h2>
         <p className="text-lg">
           Somos uma consultoria técnica independente especializada em impermeabilização preventiva e corretiva. Atuamos com diagnóstico, laudos e fiscalização de obras, com foco em soluções duradouras, redução de custos e valorização de imóveis.
         </p>
