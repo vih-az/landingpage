@@ -35,18 +35,20 @@ export default function LandingPage() {
         <div className="flex">
           <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
           <div>
-            <p>
-            ✅ 80% das patologias em edificações têm origem na umidade.
-            </p>
-            <p>
-              ✅ Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
-            </p>
-            <p>
-              ✅ 90% dos problemas são causados por erros de aplicação, não de produto.
-            </p>
-            <p>
-              ✅ Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
-            </p>
+            <ul className="list-image[url(./src/icons8-ok-64.png)]">
+              <li>
+                80% das patologias em edificações têm origem na umidade.
+              </li>
+              <li>
+                Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
+              </li>
+              <li>
+                90% dos problemas são causados por erros de aplicação, não de produto.
+              </li>
+              <li>
+                Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
+              </li>
+            </ul>
           </div>
         </div>
       </section>
