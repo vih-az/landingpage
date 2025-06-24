@@ -2,13 +2,3 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 /* @import '@fontsource-variable/inter'; */
-
-@counter-style thumbs {
-  system: cyclic;
-  symbols: url("https://i.ibb.co/7thxPFL7/icons8-ok-64.png");
-  suffix: " ";
-}
-
-ul {
-  list-style: thumbs;
-}
