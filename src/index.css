@@ -5,7 +5,7 @@
 
 @counter-style thumbs {
   system: cyclic;
-  symbols: "https://i.ibb.co/7thxPFL7/icons8-ok-64.png";
+  symbols: https://i.ibb.co/7thxPFL7/icons8-ok-64.png;
   suffix: " ";
 }
 
