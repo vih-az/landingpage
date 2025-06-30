@@ -36,6 +36,14 @@ export default function LandingPage() {
           <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
           <div>
             <ul className="list-image-[url(https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png)]">
+            <div className="flex">
+              <li>
+                80% das patologias em edificações têm origem na umidade.
+              </li>
+              <li>
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
+              </li>
+            </div>
               <li>
                 80% das patologias em edificações têm origem na umidade.
               </li>
