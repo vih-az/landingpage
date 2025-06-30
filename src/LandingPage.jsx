@@ -45,9 +45,6 @@ export default function LandingPage() {
               </li>
             </div>
               <li>
-                80% das patologias em edificações têm origem na umidade.
-              </li>
-              <li>
                 Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
               </li>
               <li>
