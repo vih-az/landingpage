@@ -44,15 +44,30 @@ export default function LandingPage() {
                 80% das patologias em edificações têm origem na umidade.
               </li>
             </div>
+            <div>
+              <li>
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
+              </li>
               <li>
                 Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
+              </li>
+            </div>
+            <div>
+              <li>
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
               <li>
                 90% dos problemas são causados por erros de aplicação, não de produto.
               </li>
+            </div>
+            <div>
+              <li>
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
+              </li>
               <li>
                 Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
               </li>
+            </div>
             </ul>
           </div>
         </div>
