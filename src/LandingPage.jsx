@@ -38,10 +38,10 @@ export default function LandingPage() {
             <ul>
             <div className="flex">
               <li>
-                80% das patologias em edificações têm origem na umidade.
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
               <li>
-                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
+                80% das patologias em edificações têm origem na umidade.
               </li>
             </div>
               <li>
