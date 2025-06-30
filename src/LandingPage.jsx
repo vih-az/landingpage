@@ -44,7 +44,7 @@ export default function LandingPage() {
                 80% das patologias em edificações têm origem na umidade.
               </li>
             </div>
-            <div>
+            <div className="flex">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
@@ -52,7 +52,7 @@ export default function LandingPage() {
                 Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
               </li>
             </div>
-            <div>
+            <div className="flex">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
@@ -60,7 +60,7 @@ export default function LandingPage() {
                 90% dos problemas são causados por erros de aplicação, não de produto.
               </li>
             </div>
-            <div>
+            <div className="flex">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
