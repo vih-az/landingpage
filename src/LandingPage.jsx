@@ -36,15 +36,15 @@ export default function LandingPage() {
           <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
           <div>
             <ul className="gap-2 flex flex-col">
-            <div className="flex items-center">
+            <div className="flex items-center gap-2">
               <li>
-                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt=""/>
               </li>
               <li>
                 80% das patologias em edificações têm origem na umidade.
               </li>
             </div>
-            <div className="flex items-center">
+            <div className="flex items-center gap-2">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
@@ -52,7 +52,7 @@ export default function LandingPage() {
                 Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
               </li>
             </div>
-            <div className="flex items-center">
+            <div className="flex items-center gap-2">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
@@ -60,7 +60,7 @@ export default function LandingPage() {
                 90% dos problemas são causados por erros de aplicação, não de produto.
               </li>
             </div>
-            <div className="flex items-center">
+            <div className="flex items-center gap-2">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
