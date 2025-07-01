@@ -27,7 +27,7 @@ export default function LandingPage() {
         </div>
       </header>
 
-      <section className="py-12 px-6 max-w-4xl mx-auto">
+      <section className="py-12 px-6 max-w-4xl mx-auto bg-[#0a3062]">
         <div>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
@@ -38,7 +38,7 @@ export default function LandingPage() {
             <ul className="gap-2 flex flex-col">
             <div className="flex items-center gap-2">
               <li>
-                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt=""/>
+                <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
               </li>
               <li>
                 80% das patologias em edificações têm origem na umidade.
