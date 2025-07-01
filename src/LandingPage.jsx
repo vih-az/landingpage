@@ -32,10 +32,10 @@ export default function LandingPage() {
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
         </div>
-        <div className="flex">
+        <div className="flex flex-col md:flex-row gap-2">
           <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
           <div>
-            <ul>
+            <ul className="gap-2 flex flex-col">
             <div className="flex">
               <li>
                 <img src="https://i.ibb.co/gLRVRYXR/icons8-ok-24-1.png" alt="" />
