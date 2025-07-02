@@ -33,7 +33,7 @@ export default function LandingPage() {
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
           </div>
-          <div className="flex flex-col md:flex-row gap-2">
+          <div className="flex flex-col md:flex-row gap-4">
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
             <div>
               <ul className="gap-2 flex flex-col">
@@ -77,7 +77,7 @@ export default function LandingPage() {
 
       <section className="bg-[#ffffff] py-12 px-6">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Nossos Serviços</h2>
+          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 text-lg">
             <li>🔍 Vistoria técnica e diagnóstico</li>
             <li>🛠️ Desenvolvimento de soluções técnicas</li>
