@@ -27,7 +27,7 @@ export default function LandingPage() {
         </div>
       </header>
 
-      <section className="py-12 px-6 max-w-4xl mx-auto bg-[#0a3062] text-white w-ful">
+      <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col">
         <div>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
