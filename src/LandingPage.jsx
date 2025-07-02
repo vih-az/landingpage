@@ -29,48 +29,46 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
-          <div>
+          <div className="flex">
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
+            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
           </div>
           <div className="flex flex-col md:flex-row gap-2">
-            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
-            <div>
-              <ul className="gap-2 flex flex-col">
-              <div className="flex items-center gap-2">
-                <li>
-                  <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
-                </li>
-                <li>
-                  80% das patologias em edificações têm origem na umidade.
-                </li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li>
-                  <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
-                </li>
-                <li>
-                  Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
-                </li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li>
-                  <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
-                </li>
-                <li>
-                  90% dos problemas são causados por erros de aplicação, não de produto.
-                </li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li>
-                  <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
-                </li>
-                <li>
-                  Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
-                </li>
-              </div>
-              </ul>
+            <ul className="gap-2 flex flex-col">
+            <div className="flex items-center gap-2">
+              <li>
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+              </li>
+              <li>
+                80% das patologias em edificações têm origem na umidade.
+              </li>
             </div>
+            <div className="flex items-center gap-2">
+              <li>
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+              </li>
+              <li>
+                Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
+              </li>
+            </div>
+            <div className="flex items-center gap-2">
+              <li>
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+              </li>
+              <li>
+                90% dos problemas são causados por erros de aplicação, não de produto.
+              </li>
+            </div>
+            <div className="flex items-center gap-2">
+              <li>
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+              </li>
+              <li>
+                Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
+              </li>
+            </div>
+            </ul>
           </div>
         </div>
       </section>
