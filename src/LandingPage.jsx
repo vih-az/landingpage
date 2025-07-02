@@ -29,12 +29,10 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
-          <div className="flex">
-            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que</h2>
-            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Impermeabilização</h2>
-            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>importa?</h2>
+          <div>
+            <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que Impermeabilização importa?</h2>
           </div>
-          <div className="flex flex-col md:flex-row gap-2">
+          <div className="flex gap-2">
             <ul className="gap-2 flex flex-col">
             <div className="flex items-center gap-2">
               <li>
