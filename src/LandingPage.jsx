@@ -19,7 +19,7 @@ export default function LandingPage() {
         </div>
         <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-16">
           <button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white rounded-sm w-fit self-center pl-2 pr-2">
-            <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
+            <a href="tel:015 11 91716-5721">Ligar para (11) 9 1782-8711</a>
           </button>
           {/* <Button variant="outline" className="border-white text-white hover:bg-white hover:text-[#0a3062]">
             <a href="https://wa.me/5511917828711" target="_blank" rel="noopener noreferrer">WhatsApp</a>
