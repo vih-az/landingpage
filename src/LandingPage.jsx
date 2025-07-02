@@ -78,13 +78,11 @@ export default function LandingPage() {
       <section className="bg-[#ffffff] py-12 px-6">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
-          <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 text-lg">
-            <li>🔍 Vistoria técnica e diagnóstico</li>
-            <li>🛠️ Desenvolvimento de soluções técnicas</li>
-            <li>📊 Equalização técnica e econômica de propostas</li>
-            <li>👷‍♀️ Acompanhamento e fiscalização de obras</li>
-            <li>✅ Testes e garantias de desempenho</li>
-          </ul>
+          <p>Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
+
+Condomínios que precisam de orientação técnica especializada em impermeabilização.
+
+Oferecemos consultoria de alto nível com foco em soluções duradouras, redução de custos e valorização dos ativos.</p>
         </div>
       </section>
 
