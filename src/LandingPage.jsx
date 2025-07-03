@@ -93,7 +93,7 @@ export default function LandingPage() {
         <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora</h2>
         <h2>Engª Esp. Giseli Azevedo</h2>
         <h2>Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
-        <ul className="list-disc list-inside text-lg space-y-2">
+        <ul className="gap-2 flex flex-col">
           <div>
             <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
             <li>+15 anos de experiência técnica</li>
