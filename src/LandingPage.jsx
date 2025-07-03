@@ -90,26 +90,28 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-        <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora</h2>
-        <h2>Engª Esp. Giseli Azevedo</h2>
-        <h2>Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
-        <ul className="gap-2 flex flex-col">
-          <div className="flex items-center gap-2">
-            <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
-            <li>+15 anos de experiência técnica</li>
-          </div>
-           <div className="flex items-center gap-2">
-            <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
-            <li>Referência nacional em impermeabilização condominial</li>
-          </div>
-           <div className="flex items-center gap-2">
-            <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
-            <li>+15 anos de experiência técnica</li>
-          </div>
-          <li>✅ +15 anos de experiência técnica</li>
-          <li>✅ Referência nacional em impermeabilização condominial</li>
-          <li>✅ Participação em estudos, publicações e desenvolvimento de tecnologias</li>
-        </ul>
+        <div>
+          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora</h2>
+          <h2>Engª Esp. Giseli Azevedo</h2>
+          <h2>Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
+          <ul className="gap-2 flex flex-col">
+            <div className="flex items-center gap-2">
+              <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+              <li>+15 anos de experiência técnica</li>
+            </div>
+            <div className="flex items-center gap-2">
+              <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+              <li>Referência nacional em impermeabilização condominial</li>
+            </div>
+            <div className="flex items-center gap-2">
+              <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+              <li>+15 anos de experiência técnica</li>
+            </div>
+            <li>✅ +15 anos de experiência técnica</li>
+            <li>✅ Referência nacional em impermeabilização condominial</li>
+            <li>✅ Participação em estudos, publicações e desenvolvimento de tecnologias</li>
+          </ul>
+        </div>
       </section>
 
       <section className="bg-[#ffffff] py-12 px-6">
