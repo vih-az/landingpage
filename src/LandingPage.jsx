@@ -89,7 +89,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full">
+      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
         <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora</h2>
         <h2>Engª Esp. Giseli Azevedo</h2>
         <h2>Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
