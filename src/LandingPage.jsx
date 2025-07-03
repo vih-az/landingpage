@@ -90,13 +90,25 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 max-w-4xl mx-auto">
-        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Diferenciais</h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora</h2>
+        <h2>Engª Esp. Giseli Azevedo</h2>
+        <h2>Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
         <ul className="list-disc list-inside text-lg space-y-2">
-          <li>Mais de 15 anos de experiência técnica</li>
-          <li>Participação ativa em normas da ABNT e do IBI</li>
-          <li>Atuação estratégica com foco em prevenção e valorização</li>
-          <li>Consultoria 100% independente e especializada</li>
-          <li>Transparência e compromisso com o cliente</li>
+          <div>
+            <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+            <li>+15 anos de experiência técnica</li>
+          </div>
+           <div>
+            <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+            <li>Referência nacional em impermeabilização condominial</li>
+          </div>
+           <div>
+            <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+            <li>+15 anos de experiência técnica</li>
+          </div>
+          <li>✅ +15 anos de experiência técnica</li>
+          <li>✅ Referência nacional em impermeabilização condominial</li>
+          <li>✅ Participação em estudos, publicações e desenvolvimento de tecnologias</li>
         </ul>
       </section>
 
