@@ -106,9 +106,6 @@ export default function LandingPage() {
             <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
             <li>+15 anos de experiência técnica</li>
           </div>
-          <li>✅ +15 anos de experiência técnica</li>
-          <li>✅ Referência nacional em impermeabilização condominial</li>
-          <li>✅ Participação em estudos, publicações e desenvolvimento de tecnologias</li>
         </ul>
       </section>
 
