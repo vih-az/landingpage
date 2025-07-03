@@ -102,7 +102,7 @@ export default function LandingPage() {
             <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
             <li>Referência nacional em impermeabilização condominial</li>
           </div>
-           <div className="flex items-center gap-2">
+           <div className="">
             <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
             <li>+15 anos de experiência técnica</li>
           </div>
