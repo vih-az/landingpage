@@ -90,7 +90,7 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-        <div className="w-[50%]">
+        <div className="w-[70%]">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora</h2>
             <h2>Engª Esp. Giseli Azevedo</h2>
