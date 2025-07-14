@@ -118,12 +118,11 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
        <div className="w-[70%]">
           <div>
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
-            <h2 className="text-[#0a3062]">Engª Esp. Giseli Azevedo</h2>
-            <h2>Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
+            <h2 className="justify-self-center">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
           </div>
           <div className="flex gap-2">
-            <ul className="gap-2 flex flex-col">
+            <ul className="gap-2 flex flex-col justify-self-end">
               <div className="flex items-center gap-2">
                 <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
                 <li>Parcerias de confiança</li>
