@@ -115,16 +115,29 @@ export default function LandingPage() {
         </div>
       </section>
 
-      <section className="bg-[#ffffff] py-12 px-6">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
-          <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 text-lg">
-            <li>🏢 Síndicos</li>
-            <li>🏗️ Administradoras de condomínios</li>
-            <li>🏘️ Incorporadoras</li>
-            <li>📐 Escritórios de arquitetura e engenharia</li>
-            <li>🏠 Proprietários de imóveis de médio e alto padrão</li>
-          </ul>
+      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
+       <div className="w-[70%]">
+          <div>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
+            <h2 className="text-[#0a3062]">Engª Esp. Giseli Azevedo</h2>
+            <h2>Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
+          </div>
+          <div className="flex gap-2">
+            <ul className="gap-2 flex flex-col">
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Parcerias de confiança</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Atendimento consultivo personalizado</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Flexibilidade e excelência operacional</li>
+              </div>
+            </ul>
+          </div>
         </div>
       </section>
 
