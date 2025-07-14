@@ -146,12 +146,14 @@ export default function LandingPage() {
             <h2>O que oferecemos</h2>
             <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
-          <div className="grid-cols-2">
+          <div className="flex">
             <h2>1. Vistoria técnica detalhada</h2>
             <h2>2. Diagnóstico e recomendações estratégicas</h2>
-            <h2>3. Equalização técnica e econômica de propostas</h2>
-            <h2>4. Fiscalização até a entrega final da obra</h2>
           </div>
+            <div className="flex">
+              <h2>3. Equalização técnica e econômica de propostas</h2>
+            <h2>4. Fiscalização até a entrega final da obra</h2>
+            </div>
           <h1 className="bg-[#0d68c9] pl-2 pr-2">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
         </div>
       </section>
