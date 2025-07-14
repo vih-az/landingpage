@@ -141,17 +141,18 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 text-center">
-        <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Fale com a gente</h2>
-        <p className="text-lg mb-6">
-          Atendimento no RJ e MG | Mais de 80 projetos com excelência
-        </p>
-        <div className="flex flex-col md:flex-row justify-center gap-4">
-          {/* <Button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white">
-            <a href="tel:+5511917828711">Ligar para (11) 9 1782-8711</a>
-          </Button>
-          <Button variant="outline" className="border-[#0a3062] text-[#0a3062] hover:bg-[#0a3062] hover:text-white">
-            <a href="https://wa.me/5511917828711" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-          </Button> */}
+        <div>
+          <div>
+            <h2>O que oferecemos</h2>
+            <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
+          </div>
+          <div>
+            <h2>1. Vistoria técnica detalhada</h2>
+            <h2>2. Diagnóstico e recomendações estratégicas</h2>
+            <h2>3. Equalização técnica e econômica de propostas</h2>
+            <h2>4. Fiscalização até a entrega final da obra</h2>
+          </div>
+          <h1 className="bg-[#0d68c9] pl-2 pr-2">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
         </div>
       </section>
 
