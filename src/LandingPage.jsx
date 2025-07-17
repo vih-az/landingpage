@@ -142,7 +142,7 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
-          <div className="flex gap-2">
+          <div className="flex gap-2 1/2">
             <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-lg">O que oferecemos</h2>
             <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
