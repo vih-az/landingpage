@@ -146,12 +146,12 @@ export default function LandingPage() {
             <h2>O que oferecemos</h2>
             <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
-          <div className="flex justify-center items-center gap-2">
-            <h2 >1.</h2>
+          <div className="flex justify-center items-center">
+            <h2  style={{ fontFamily: 'Felix Titling, serif' }}>1.</h2>
             <h2>1. Vistoria técnica detalhada</h2>
             <h2>2. Diagnóstico e recomendações estratégicas</h2>
           </div>
-            <div className="flex justify-center items-center gap-2">
+            <div className="flex justify-center items-center">
               <h2>3. Equalização técnica e econômica de propostas</h2>
             <h2>4. Fiscalização até a entrega final da obra</h2>
             </div>
