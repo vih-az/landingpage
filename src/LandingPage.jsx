@@ -143,11 +143,11 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
           <div className="flex gap-2">
-            <h2>O que oferecemos</h2>
+            <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-2xl">O que oferecemos</h2>
             <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
           <div className="flex justify-center items-center gap-2">
-            <h2  style={{ fontFamily: 'Felix Titling, serif' }}>1.</h2>
+            <h2 style={{ fontFamily: 'Felix Titling, serif' }}>1.</h2>
             <h2>1. Vistoria técnica detalhada</h2>
             <h2  style={{ fontFamily: 'Felix Titling, serif' }}>2.</h2>
             <h2>2. Diagnóstico e recomendações estratégicas</h2>
