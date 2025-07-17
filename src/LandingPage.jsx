@@ -19,7 +19,7 @@ export default function LandingPage() {
         </div>
         <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-16">
           <button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white rounded-sm w-fit self-center pl-2 pr-2">
-            <a href="tel:015 11 91716-5721">Ligar para (11) 9 1782-8711</a>
+            <a href="tel:015 11 91716-5721">Ligar para (11) 91716-5721</a>
           </button>
           {/* <Button variant="outline" className="border-white text-white hover:bg-white hover:text-[#0a3062]">
             <a href="https://wa.me/5511917828711" target="_blank" rel="noopener noreferrer">WhatsApp</a>
@@ -142,7 +142,7 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
-          <div className="flex gap-2 1/2">
+          <div className="flex gap-2">
             <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-lg">O que oferecemos</h2>
             <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
@@ -163,7 +163,7 @@ export default function LandingPage() {
       </section>
 
       <footer className="bg-[#0a3062] py-6 text-center text-sm text-white">
-        © 2025 Nó em Pingo d’Água. Todos os direitos reservados. Contato: (11) 9 1782-8711
+        © 2025 Nó em Pingo d’Água. Todos os direitos reservados. Contato: (11) 91716-5721
       </footer>
     </div>
   );
