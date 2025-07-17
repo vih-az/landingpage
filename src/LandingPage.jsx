@@ -143,16 +143,19 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
           <div className="flex gap-2">
-            <h2  style={{ fontFamily: 'Felix Titling, serif' }}>O que oferecemos</h2>
+            <h2>O que oferecemos</h2>
             <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
           <div className="flex justify-center items-center gap-2">
-            <h2 >1.</h2>
+            <h2  style={{ fontFamily: 'Felix Titling, serif' }}>1.</h2>
             <h2>1. Vistoria técnica detalhada</h2>
+            <h2  style={{ fontFamily: 'Felix Titling, serif' }}>2.</h2>
             <h2>2. Diagnóstico e recomendações estratégicas</h2>
           </div>
             <div className="flex justify-center items-center gap-2">
+              <h2  style={{ fontFamily: 'Felix Titling, serif' }}>3.</h2>
               <h2>3. Equalização técnica e econômica de propostas</h2>
+              <h2  style={{ fontFamily: 'Felix Titling, serif' }}>4.</h2>
             <h2>4. Fiscalização até a entrega final da obra</h2>
             </div>
           <h1 className="bg-[#0d68c9] pl-2 pr-2">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
