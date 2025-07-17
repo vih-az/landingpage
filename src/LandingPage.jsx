@@ -148,15 +148,15 @@ export default function LandingPage() {
           </div>
           <div className="flex justify-center items-center gap-2">
             <h2 className="text-lg" style={{ fontFamily: 'Felix Titling, serif' }}>1.</h2>
-            <h2>1. Vistoria técnica detalhada</h2>
+            <h2>Vistoria técnica detalhada</h2>
             <h2 className="text-lg" style={{ fontFamily: 'Felix Titling, serif' }}>2.</h2>
-            <h2>2. Diagnóstico e recomendações estratégicas</h2>
+            <h2>Diagnóstico e recomendações estratégicas</h2>
           </div>
             <div className="flex justify-center items-center gap-2">
               <h2 className="text-lg" style={{ fontFamily: 'Felix Titling, serif' }}>3.</h2>
-              <h2>3. Equalização técnica e econômica de propostas</h2>
+              <h2>Equalização técnica e econômica de propostas</h2>
               <h2 className="text-lg" style={{ fontFamily: 'Felix Titling, serif' }}>4.</h2>
-            <h2>4. Fiscalização até a entrega final da obra</h2>
+            <h2>Fiscalização até a entrega final da obra</h2>
             </div>
           <h1 className="bg-[#0d68c9] pl-2 pr-2">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
         </div>
