@@ -90,7 +90,7 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-        <div className="w-[80%]">
+        <div>
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
             <h2 className="text-[#0a3062]">Engª Esp. Giseli Azevedo</h2>
@@ -116,7 +116,7 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className="w-[80%]">
+       <div>
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
             <h2 className="justify-self-center">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
@@ -170,7 +170,7 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className="w-[70%]">
+       <div>
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
             <h2 className="text-[#0a3062]">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
@@ -203,7 +203,7 @@ export default function LandingPage() {
       </section>
 
            <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className="w-[70%]">
+       <div>
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Por que nos escolher?</h2>
           </div>
@@ -234,7 +234,7 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-col justify-center items-center bg-[#0a3062] text-white">
-       <div className="w-[80%]">
+       <div>
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
