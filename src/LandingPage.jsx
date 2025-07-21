@@ -158,7 +158,7 @@ export default function LandingPage() {
               <h2 className="text-3xl text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>4.</h2>
             <h2>Fiscalização até a entrega final da obra</h2>
             </div>
-          <h1 className="bg-[#0d68c9] pl-2 pr-2">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
+          <h1 className="bg-[#0d68c9] pl-2 pr-2 flex justify-center items-center">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
         </div>
       </section>
 
