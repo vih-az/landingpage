@@ -202,6 +202,39 @@ export default function LandingPage() {
         </div>
       </section>
 
+           <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
+       <div className="w-[70%]">
+          <div>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Por que nos escolher?</h2>
+          </div>
+          <div className="flex gap-2">
+            <ul className="gap-2 flex flex-col justify-self-end">
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Consultoria técnica independente</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Foco exclusivo em impermeabilização</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Experiência comprovada e atualizada com normas técnicas</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Visão estratégica: prevenção, economia e valorização</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Transparência e compromisso com o cliente</li>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+
       <footer className="bg-[#0a3062] py-6 text-center text-sm text-white">
         © 2025 Nó em Pingo d’Água. Todos os direitos reservados. Contato: (11) 91716-5721
       </footer>
