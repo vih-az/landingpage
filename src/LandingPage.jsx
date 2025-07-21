@@ -173,7 +173,7 @@ export default function LandingPage() {
        <div className="w-[70%]">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
-            <h2 className="justify-self-center">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
+            <h2 className="text-[#0a3062]">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
           </div>
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col justify-self-end">
