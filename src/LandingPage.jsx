@@ -169,6 +169,38 @@ export default function LandingPage() {
           <h1 className="bg-[#0d68c9] pl-2 pr-2 flex justify-center items-center">Tudo para garantir a melhor relação custo-benefício e a máxima durabilidade das soluções</h1>
         </div>
       </section>
+      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
+       <div className="w-[70%]">
+          <div>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
+            <h2 className="justify-self-center">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
+          </div>
+          <div className="flex gap-2">
+            <ul className="gap-2 flex flex-col justify-self-end">
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Síndicos</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Administradoras</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Incorporadoras</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Escritórios de arquitetura e engenharia</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li>Proprietários de imóveis de médio e alto padrão</li>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </section>
 
       <footer className="bg-[#0a3062] py-6 text-center text-sm text-white">
         © 2025 Nó em Pingo d’Água. Todos os direitos reservados. Contato: (11) 91716-5721
