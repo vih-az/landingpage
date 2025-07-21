@@ -94,7 +94,7 @@ export default function LandingPage() {
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
             <h2 className="text-[#0a3062]">Engª Esp. Giseli Azevedo</h2>
-            <h2>Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
+            <h2 className="text-justify">Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
           </div>
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col">
@@ -119,7 +119,7 @@ export default function LandingPage() {
        <div>
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
-            <h2 className="justify-self-center">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
+            <h2 className="justify-self-center text-justify">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
           </div>
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col justify-self-end">
