@@ -238,7 +238,7 @@ export default function LandingPage() {
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
-            <h2 className="justify-self-center">Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
+            <h2>Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
             <h2>Exemplos de resultados alcançados:</h2>
           </div>
           <div className="flex gap-2">
