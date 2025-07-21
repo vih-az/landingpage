@@ -242,7 +242,7 @@ export default function LandingPage() {
             <h2>Exemplos de resultados alcançados:</h2>
           </div>
           <div className="flex gap-2">
-            <ul className="gap-2 flex flex-col justify-self-end">
+            <ul className="gap-2 flex flex-col justify-self-end list-disc">
               <div className="flex items-center gap-2">
                 <li>Redução de custos com manutenções emergenciais</li>
               </div>
