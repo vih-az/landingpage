@@ -144,7 +144,7 @@ export default function LandingPage() {
         <div>
           <div className="flex gap-2">
             <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-3xl">O que oferecemos</h2>
-            <h2>Oferecemos um processo consultivo completo em impermeabilização:</h2>
+            <h2 className="flex align-end justify-center">Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
           <div className="flex justify-center items-center gap-2">
             <h2 className="text-3xl" style={{ fontFamily: 'Felix Titling, serif' }}>1.</h2>
