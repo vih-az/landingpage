@@ -233,6 +233,29 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
+       <div className="w-[80%]">
+          <div>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
+            <h2 className="justify-self-center">Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
+            <h2>Exemplos de resultados alcançados:</h2>
+          </div>
+          <div className="flex gap-2">
+            <ul className="gap-2 flex flex-col justify-self-end">
+              <div className="flex items-center gap-2">
+                <li>Redução de custos com manutenções emergenciais</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li>Aumento da durabilidade das lajes e coberturas</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li>Valorização patrimonial após entrega da obra</li>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </section>
 
 
       <footer className="bg-[#0a3062] py-6 text-center text-sm text-white">
