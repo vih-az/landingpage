@@ -36,7 +36,7 @@ export default function LandingPage() {
             <ul className="gap-2 flex flex-col">
             <div className="flex items-center gap-2">
               <li>
-                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="h-fit"/>
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/>
               </li>
               <li>
                 80% das patologias em edificações têm origem na umidade.
@@ -44,7 +44,7 @@ export default function LandingPage() {
             </div>
             <div className="flex items-center gap-2">
               <li>
-                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/>
               </li>
               <li>
                 Falhas de impermeabilização podem custar até 5x mais se não forem tratadas a tempo.
@@ -52,7 +52,7 @@ export default function LandingPage() {
             </div>
             <div className="flex items-center gap-2">
               <li>
-                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/>
               </li>
               <li>
                 90% dos problemas são causados por erros de aplicação, não de produto.
@@ -60,7 +60,7 @@ export default function LandingPage() {
             </div>
             <div className="flex items-center gap-2">
               <li>
-                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" />
+                <img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/>
               </li>
               <li>
                 Condomínios com impermeabilização correta podem valorizar até 15% no mercado.
@@ -99,15 +99,15 @@ export default function LandingPage() {
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col">
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>+15 anos de experiência técnica</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Referência nacional em impermeabilização condominial</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Participação em estudos, publicações e desenvolvimento de tecnologias</li>
               </div>
             </ul>
@@ -124,15 +124,15 @@ export default function LandingPage() {
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col justify-self-end">
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Parcerias de confiança</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Atendimento consultivo personalizado</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Flexibilidade e excelência operacional</li>
               </div>
             </ul>
@@ -178,23 +178,23 @@ export default function LandingPage() {
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col justify-self-end">
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Síndicos</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Administradoras</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Incorporadoras</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Escritórios de arquitetura e engenharia</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Proprietários de imóveis de médio e alto padrão</li>
               </div>
             </ul>
@@ -210,23 +210,23 @@ export default function LandingPage() {
           <div className="flex gap-2">
             <ul className="gap-2 flex flex-col justify-self-end">
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Consultoria técnica independente</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Foco exclusivo em impermeabilização</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Experiência comprovada e atualizada com normas técnicas</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Visão estratégica: prevenção, economia e valorização</li>
               </div>
               <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" /></li>
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="w-fit"/></li>
                 <li>Transparência e compromisso com o cliente</li>
               </div>
             </ul>
