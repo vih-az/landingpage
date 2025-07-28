@@ -6,6 +6,9 @@ export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#ffffff] relative w-full h-[500px] text-center text-white justify-center flex flex-col items-center gap-2">
+        <div>
+          <a href="#Quem somos">Quem somos</a>
+        </div>
         <img src="https://i.postimg.cc/cJgJHX9K/logo-04l.png" alt="" className="object-cover w-full h-full" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
@@ -73,7 +76,7 @@ export default function LandingPage() {
 
       <section className="bg-[#ffffff] py-12 px-6">
         <div className="max-w-4xl mx-auto flex flex-col gap-2">
-          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
+          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }} id="Quem somos">Quem Somos</h2>
           <p>
             Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
           </p>
