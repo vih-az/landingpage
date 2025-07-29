@@ -6,8 +6,9 @@ export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#ffffff] relative w-full h-[500px] text-center text-white justify-center flex flex-col items-center gap-2">
-        <div>
+        <div className="w-full flex text-black">
           <a href="#Quem somos">Quem somos</a>
+          <a href="#Nossos servicos">Nossos serviços</a>
         </div>
         <img src="https://i.postimg.cc/cJgJHX9K/logo-04l.png" alt="" className="object-cover w-full h-full" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
@@ -73,6 +74,7 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+
 
       <section className="bg-[#ffffff] py-12 px-6">
         <div className="max-w-4xl mx-auto flex flex-col gap-2">
@@ -146,7 +148,7 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div className="flex flex-col gap-2">
           <div className="flex gap-2">
-            <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-3xl">O que oferecemos</h2>
+            <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-3xl" id="Nossos servicos">O que oferecemos</h2>
             <h2 className="flex items-end justify-center">Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
           <div className="flex justify-center items-center gap-4">
