@@ -5,12 +5,12 @@ import React from "react";
 export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
-      <header className="bg-[#ffffff] relative w-full h-[500px] text-center text-white justify-center flex flex-col items-center gap-2">
-        <div className="w-full flex text-black gap-2">
+      <header className="bg-[#ffffff] relative w-full text-center text-white justify-center flex flex-col items-center gap-2">
+        <div className="w-full flex text-black gap-2 justify-end items-center">
           <a href="#Quem somos">Quem somos</a>
           <a href="#Nossos servicos">Nossos serviços</a>
         </div>
-        <img src="https://i.postimg.cc/cJgJHX9K/logo-04l.png" alt="" className="object-cover w-full h-full" />
+        <img src="https://i.postimg.cc/cJgJHX9K/logo-04l.png" alt="" className="object-cover" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
         </h1>
@@ -21,7 +21,7 @@ export default function LandingPage() {
           <h1 className="bg-[#0a3062] pl-2 pr-2">Soluções inteligentes, seguras e eficazes para condomínios</h1>
           <h1 className="bg-[#0d68c9] pl-2 pr-2">que buscam proteger e valorizar seus imóveis</h1>
         </div>
-        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9] mb-16">
+        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9]">
           <button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white rounded-sm w-fit self-center pl-2 pr-2">
             <a href="tel:015 11 91716-5721">Ligar para (11) 91716-5721</a>
           </button>
