@@ -7,9 +7,10 @@ export default function LandingPage() {
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#ffffff] relative w-full text-center text-white justify-center flex flex-col items-center gap-2">
         <div className="w-full flex text-[#0a3062] gap-2 justify-end items-center font-semibold">
-          <a href="#Quem somos">Quem somos</a>
-          <a href="#Nossos servicos">Nossos serviços</a>
+          <a href="#quemsomos">Quem somos</a>
+          <a href="#nossosservicos">Nossos serviços</a>
         </div>
+        <dialog></dialog>
         <img src="https://i.postimg.cc/cJgJHX9K/logo-04l.png" alt="" className="object-cover" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
