@@ -6,7 +6,7 @@ export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
       <header className="bg-[#ffffff] relative w-full text-center text-white justify-center flex flex-col items-center gap-2 p-2">
-        <div className="w-full flex text-[#0a3062] gap-2 justify-end items-center font-semibold">
+        <div className="w-full flex text-[#0a3062] gap-4 justify-end items-center font-semibold h-[50px]">
           <a href="#quemsomos">Quem somos</a>
           <a href="#nossosservicos">Nossos serviços</a>
         </div>
