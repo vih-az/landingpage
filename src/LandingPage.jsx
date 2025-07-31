@@ -79,7 +79,7 @@ export default function LandingPage() {
 
       <section className="bg-[#ffffff] py-12 px-6">
         <div className="max-w-4xl mx-auto flex flex-col gap-2">
-          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }} id="Quem somos">Quem Somos</h2>
+          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }} id="quemsomos">Quem Somos</h2>
           <p>
             Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
           </p>
@@ -149,7 +149,7 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div className="flex flex-col gap-2">
           <div className="flex gap-2">
-            <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-3xl" id="Nossos servicos">O que oferecemos</h2>
+            <h2 style={{ fontFamily: 'Felix Titling, serif' }} className="text-3xl" id="nossosservicos">O que oferecemos</h2>
             <h2 className="flex items-end justify-center">Oferecemos um processo consultivo completo em impermeabilização:</h2>
           </div>
           <div className="flex justify-center items-center gap-4">
