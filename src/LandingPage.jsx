@@ -11,7 +11,7 @@ export default function LandingPage() {
           <a href="#nossosservicos">Nossos serviços</a>
         </div>
         <dialog></dialog>
-        <img src="https://i.postimg.cc/cJgJHX9K/logo-04l.png" alt="" className="object-cover" />
+        <img src="https://i.postimg.cc/GpVgJP7p/loogo-04l-1.png" alt="" className="object-cover" />
         {/* <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>
           Evite prejuízos com infiltrações
         </h1>
