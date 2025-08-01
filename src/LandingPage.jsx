@@ -18,18 +18,9 @@ export default function LandingPage() {
         <p className="text-lg md:text-xl max-w-2xl mx-auto">
           Consultoria técnica especializada com mais de 15 anos de experiência. Diagnóstico preciso, economia real, valorização do seu patrimônio.
         </p> */}
-        <div className="text-[#ffffff] ml-10 w-fit justify-center flex-col self-center flex items-center gap-2 pl-2 pr-2">
-          <h1 className="bg-[#0a3062] pl-2 pr-2">Soluções inteligentes, seguras e eficazes para condomínios</h1>
-          <h1 className="bg-[#0d68c9] pl-2 pr-2">que buscam proteger e valorizar seus imóveis</h1>
-        </div>
-        <div className="flex flex-col md:flex-row justify-center gap-4 text-[#0d68c9]">
-          <button className="bg-[#0a3062] hover:bg-[#0d68c9] text-white rounded-sm w-fit self-center pl-2 pr-2">
-            <a href="tel:015 11 91716-5721">Ligar para (11) 91716-5721</a>
-          </button>
           {/* <Button variant="outline" className="border-white text-white hover:bg-white hover:text-[#0a3062]">
             <a href="https://wa.me/5511917828711" target="_blank" rel="noopener noreferrer">WhatsApp</a>
           </Button> */}
-        </div>
       </header>
 
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
