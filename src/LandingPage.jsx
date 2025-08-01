@@ -95,7 +95,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex justify-center items-center">
+      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
         <div>
           <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
         </div>
