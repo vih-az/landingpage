@@ -4,11 +4,11 @@ import React from "react";
 
 export default function LandingPage() {
   return (
-    <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif]">
-      <header className="bg-[#ffffff] relative w-full text-center text-white justify-center flex items-center gap-2 p-2">
+    <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif] h-full">
+      <header className="bg-[#ffffff] relative w-full text-center text-white justify-center flex items-center gap-2 p-2 h-[20%]">
         <dialog></dialog>
-        <img src="https://i.postimg.cc/GpVgJP7p/loogo-04l-1.png" alt="" className="object-cover h-[50px]" />
-        <div className="w-full flex text-[#0a3062] gap-4 justify-end items-center font-semibold h-[50px]">
+        <img src="https://i.postimg.cc/GpVgJP7p/loogo-04l-1.png" alt="" className="object-cover h-full" />
+        <div className="w-full flex text-[#0a3062] gap-4 justify-end items-center font-semibold h-full w-[50%]">
           <a href="#quemsomos">Quem somos</a>
           <a href="#nossosservicos">Nossos serviços</a>
         </div>
