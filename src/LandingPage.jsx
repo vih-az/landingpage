@@ -96,14 +96,9 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-        <div>
-          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
-        </div>
         <div className=" flex flex-col gap-2">
           <div>
-          <img src="https://i.postimg.cc/QCsjm2N7/54585742455-7df13ccd05-w.jpg" alt="" />
-        </div>
-          <div>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
             <h2 className="text-[#0a3062] font-semibold">Engª Esp. Giseli Azevedo</h2>
             <h2 className="text-justify">Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
           </div>
