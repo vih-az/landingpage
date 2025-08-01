@@ -119,6 +119,9 @@ export default function LandingPage() {
             </ul>
           </div>
         </div>
+        <div>
+          <img src="https://i.postimg.cc/QCsjm2N7/54585742455-7df13ccd05-w.jpg" alt="" />
+        </div>
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
