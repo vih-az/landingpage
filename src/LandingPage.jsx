@@ -23,7 +23,7 @@ export default function LandingPage() {
           </Button> */}
       </header>
 <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-col justify-center items-center bg-[#0a3062] text-white">
-       <div className=" flex flex-col gap-2">
+       <div className=" flex flex-col gap-2 w-full">
           <img src="https://i.postimg.cc/QCsjm2N7/54585742455-7df13ccd05-w.jpg" alt=""  className="w-full"/>
         </div>
       </section>
