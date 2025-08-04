@@ -22,7 +22,11 @@ export default function LandingPage() {
             <a href="https://wa.me/5511917828711" target="_blank" rel="noopener noreferrer">WhatsApp</a>
           </Button> */}
       </header>
-
+<section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-col justify-center items-center bg-[#0a3062] text-white">
+       <div className=" flex flex-col gap-2">
+          <img src="https://i.postimg.cc/QCsjm2N7/54585742455-7df13ccd05-w.jpg" alt="" />
+        </div>
+      </section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
           <div>
