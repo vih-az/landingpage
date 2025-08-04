@@ -24,7 +24,7 @@ export default function LandingPage() {
       </header>
 <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-col justify-center items-center bg-[#0a3062] text-white">
        <div className=" flex flex-col gap-2 w-full">
-          <img src="https://i.postimg.cc/FRBwZgvJ/54585742455-7df13ccd05-wa.jpg" alt=""  className="w-full"/>
+          <img src="https://i.postimg.cc/SQzzGS7n/Whats-App-Image-2025-08-04-at-17-18-47a.jpg" alt=""  className="w-full"/>
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
