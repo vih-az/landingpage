@@ -25,7 +25,7 @@ export default function LandingPage() {
 <section className=" mx-auto bg-[#0a3062] w-full h-[34rem] flex flex-col justify-center items-center bg-[url(https://i.postimg.cc/jjsVDgxs/Design-sem-nome-4-1.png)] text-white bg-no-repeat bg-center bg-cover">
        <div className=" flex flex-col justify-end md:justify-center gap-2 w-full h-full z-10 bg-linear-[90deg,#0A3062_0%,#FFFFFF_100%]">
         <div className="w-full h-[50%] flex flex-col items-center md:w-[50%] md:h-full justify-end md:justify-center ">
-          <h1 className="text-3xl w-[90%] text-center" style={{ fontFamily: 'Felix Titling, serif' }}>A impermeabilização é investimento, não despesa</h1>
+          <h1 className="text-3xl w-[90%] text-center font-bold italic" style={{ fontFamily: 'Felix Titling, serif' }}>"A impermeabilização é investimento, não despesa"</h1>
           <h1>Giseli Azevedo</h1>
         </div>
         </div>
