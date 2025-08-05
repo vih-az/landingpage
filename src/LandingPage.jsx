@@ -182,39 +182,39 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className=" flex flex-row gap-2">
-        <div>
-          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
-        </div>
-        <div>
+       <div className=" flex flex-row gap-2 justify-center items-center">
           <div>
-            <h2 className="text-[#0a3062] font-semibold">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
           </div>
-          <div className="flex gap-2">
-            <ul className="gap-2 flex flex-col justify-self-end">
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Síndicos</li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Administradoras</li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Incorporadoras</li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Escritórios de arquitetura e engenharia</li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Proprietários de imóveis de médio e alto padrão</li>
-              </div>
-            </ul>
+          <div>
+            <div>
+              <h2 className="text-[#0a3062] font-semibold">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
+            </div>
+            <div className="flex gap-2">
+              <ul className="gap-2 flex flex-col justify-self-end">
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Síndicos</li>
+                </div>
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Administradoras</li>
+                </div>
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Incorporadoras</li>
+                </div>
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Escritórios de arquitetura e engenharia</li>
+                </div>
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Proprietários de imóveis de médio e alto padrão</li>
+                </div>
+              </ul>
+            </div>
           </div>
-        </div>
         </div>
       </section>
 
