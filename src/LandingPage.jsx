@@ -32,7 +32,7 @@ export default function LandingPage() {
       </section>
       <div className="bg-[#ffffff] h-[6px]"></div>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
-        <div className="flex">
+        <div className="flex justify-center items-center gap-2">
           <div>
             <h2 className="text-2xl font-semibold mb-4" style={{ fontFamily: 'Felix Titling, serif' }}>Por que Impermeabilização importa?</h2>
           </div>
