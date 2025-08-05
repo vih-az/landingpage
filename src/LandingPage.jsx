@@ -77,7 +77,7 @@ export default function LandingPage() {
 
 
       <section className="bg-[#ffffff] py-12 px-6"  id="quemsomos">
-        <div className="flex justify-center items-center gap-2 w-[70%]">
+        <div className="flex justify-center items-center gap-2">
           <div>
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           </div>
@@ -96,37 +96,35 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center gap-2">
-        <div className="flex gap-2 w-[70%] justify-center items-center">
-          <div>
+        <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
+        </div>
+        <div className=" flex flex-col gap-2">
+          <div>
+            <h2 className="text-[#0a3062] font-semibold">Engª Esp. Giseli Azevedo</h2>
+            <h2 className="text-justify">Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
           </div>
-          <div className=" flex flex-col gap-2">
-            <div>
-              <h2 className="text-[#0a3062] font-semibold">Engª Esp. Giseli Azevedo</h2>
-              <h2 className="text-justify">Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
-            </div>
-            <div className="flex gap-2">
-              <ul className="gap-2 flex flex-col">
-                <div className="flex items-center gap-2">
-                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                  <li>+15 anos de experiência técnica</li>
-                </div>
-                <div className="flex items-center gap-2">
-                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                  <li>Referência nacional em impermeabilização condominial</li>
-                </div>
-                <div className="flex items-center gap-2">
-                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                  <li>Participação em estudos, publicações e desenvolvimento de tecnologias</li>
-                </div>
-              </ul>
-            </div>
+          <div className="flex gap-2">
+            <ul className="gap-2 flex flex-col">
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                <li>+15 anos de experiência técnica</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                <li>Referência nacional em impermeabilização condominial</li>
+              </div>
+              <div className="flex items-center gap-2">
+                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                <li>Participação em estudos, publicações e desenvolvimento de tecnologias</li>
+              </div>
+            </ul>
           </div>
         </div>
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className=" flex flex-row gap-2 justify-center items-center w-[70%]">
+       <div className=" flex flex-row gap-2 justify-center items-center">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
           </div>
@@ -184,7 +182,7 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className=" flex flex-row gap-2 justify-center items-center w-[70%]">
+       <div className=" flex flex-row gap-2 justify-center items-center">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
           </div>
@@ -221,7 +219,7 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className=" flex flex-row justify-center items-center gap-2 w-[70%]">
+       <div className=" flex flex-row justify0-center items-center gap-2">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Por que nos escolher?</h2>
           </div>
@@ -252,29 +250,27 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
-        <div className="flex w-[70%] gap-2 justify-center items-center">
+        <div>
+          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
+          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
+        </div>
+       <div className=" flex flex-col gap-2">
           <div>
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
+            <h2>Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
           </div>
-          <div className=" flex flex-col gap-2">
-              <div>
-                <h2>Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
+          <div className="flex gap-2">
+            <ul className="gap-2 flex flex-col justify-self-end list-disc list-inside">
+              <div className="flex items-center gap-2">
+                <li>Redução de custos com manutenções emergenciais</li>
               </div>
-              <div className="flex gap-2">
-                <ul className="gap-2 flex flex-col justify-self-end list-disc list-inside">
-                  <div className="flex items-center gap-2">
-                    <li>Redução de custos com manutenções emergenciais</li>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <li>Aumento da durabilidade das lajes e coberturas</li>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <li>Valorização patrimonial após entrega da obra</li>
-                  </div>
-                </ul>
+              <div className="flex items-center gap-2">
+                <li>Aumento da durabilidade das lajes e coberturas</li>
               </div>
-            </div>
+              <div className="flex items-center gap-2">
+                <li>Valorização patrimonial após entrega da obra</li>
+              </div>
+            </ul>
+          </div>
         </div>
       </section>
 
