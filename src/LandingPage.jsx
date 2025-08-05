@@ -77,7 +77,7 @@ export default function LandingPage() {
 
 
       <section className="bg-[#ffffff] py-12 px-6"  id="quemsomos">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center gap-2">
           <div>
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           </div>
@@ -95,7 +95,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center">
+      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center gap-2">
         <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
         </div>
@@ -124,26 +124,30 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className=" flex flex-col gap-2">
+       <div className=" flex flex-row gap-2">
           <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
-            <h2 className="justify-self-center text-justify">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
           </div>
-          <div className="flex gap-2">
-            <ul className="gap-2 flex flex-col justify-self-end">
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Parcerias de confiança</li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Atendimento consultivo personalizado</li>
-              </div>
-              <div className="flex items-center gap-2">
-                <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
-                <li>Flexibilidade e excelência operacional</li>
-              </div>
-            </ul>
+          <div>
+            <div>
+              <h2 className="justify-self-center text-justify">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
+            </div>
+            <div className="flex gap-2">
+              <ul className="gap-2 flex flex-col justify-self-end">
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Parcerias de confiança</li>
+                </div>
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Atendimento consultivo personalizado</li>
+                </div>
+                <div className="flex items-center gap-2">
+                  <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
+                  <li>Flexibilidade e excelência operacional</li>
+                </div>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
