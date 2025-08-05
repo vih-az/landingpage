@@ -76,7 +76,7 @@ export default function LandingPage() {
       </section>
 
 
-      <section className="bg-[#ffffff] py-12 px-6  w-full flex flex-row justify-center items-center gap-2"  id="quemsomos">
+      <section className="bg-[#dddddd] py-12 px-6  w-full flex flex-row justify-center items-center gap-2"  id="quemsomos">
         <div className="flex justify-center items-center gap-2 w-[70%]">
           <div className="flex justify-center items-center w-[50%]">
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
@@ -125,7 +125,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
+      <section className="py-12 px-6 mx-auto bg-[#dddddd] w-full flex flex-col justify-center items-center">
        <div className=" flex flex-row gap-2 justify-center items-center w-[70%]">
           <div className="w-[50%] flex justify-center items-center">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
@@ -220,7 +220,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
+      <section className="py-12 px-6 mx-auto bg-[#dddddd] w-full flex flex-col justify-center items-center">
        <div className=" flex flex-row justify0-center items-center gap-2 w-[70%]">
           <div className="w-[50%] flex justify-center items-center">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Por que nos escolher?</h2>
