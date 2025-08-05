@@ -99,7 +99,7 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
         <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
-          </div>
+        </div>
         <div className=" flex flex-row gap-2">
           <div>
             <h2 className="text-[#0a3062] font-semibold">Engª Esp. Giseli Azevedo</h2>
