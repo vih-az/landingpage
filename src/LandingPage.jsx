@@ -81,7 +81,7 @@ export default function LandingPage() {
           <div>
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           </div>
-          <div className="max-w-4xl mx-auto flex flex-row gap-2">
+          <div className="max-w-4xl mx-auto flex flex-col gap-2">
             <p>
               Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
             </p>
