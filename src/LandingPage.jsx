@@ -26,8 +26,7 @@ export default function LandingPage() {
        <div className=" flex flex-col gap-2 w-full h-full z-10 bg-linear-[90deg,#0A3062_0%,#FFFFFF_100%]">
         <div>
           <h1>A impermeabilização é investimento, não despesa</h1>
-          <h1></h1>
-          <button></button>
+          <h1>Giseli Azevedo</h1>
         </div>
         </div>
       </section>
