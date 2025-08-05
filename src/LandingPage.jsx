@@ -76,7 +76,7 @@ export default function LandingPage() {
       </section>
 
 
-      <section className="bg-[#ffffff] py-12 px-6"  id="quemsomos">
+      <section className="bg-[#ffffff] py-12 px-6  w-full flex flex-row justify-center items-center gap-2"  id="quemsomos">
         <div className="flex justify-center items-center gap-2 w-[70%]">
           <div>
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
