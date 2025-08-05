@@ -78,10 +78,10 @@ export default function LandingPage() {
 
       <section className="bg-[#ffffff] py-12 px-6  w-full flex flex-row justify-center items-center gap-2"  id="quemsomos">
         <div className="flex justify-center items-center gap-2 w-[70%]">
-          <div>
+          <div className="w-[50%]">
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           </div>
-          <div className="max-w-4xl flex flex-col gap-2">
+          <div className="max-w-4xl flex flex-col gap-2 w-[50%]">
             <p>
               Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
             </p>
@@ -97,10 +97,10 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center gap-2">
         <div className="flex justify-center items-center gap-2 w-[70%]">
-          <div>
+          <div className="w-[50%]">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
           </div>
-          <div className=" flex flex-col gap-2">
+          <div className=" flex flex-col gap-2 w-[50%]">
             <div>
               <h2 className="text-[#0a3062] font-semibold">Engª Esp. Giseli Azevedo</h2>
               <h2 className="text-justify">Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
@@ -127,10 +127,10 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
        <div className=" flex flex-row gap-2 justify-center items-center w-[70%]">
-          <div>
+          <div className="w-[50%]">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
           </div>
-          <div>
+          <div className="w-[50%]">
             <div>
               <h2 className="justify-self-center text-justify">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
             </div>
@@ -185,10 +185,10 @@ export default function LandingPage() {
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
        <div className=" flex flex-row gap-2 justify-center items-center w-[70%]">
-          <div>
+          <div className="w-[50%]">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
           </div>
-          <div>
+          <div className="w-[50%]">
             <div>
               <h2 className="text-[#0a3062] font-semibold">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
             </div>
@@ -222,10 +222,10 @@ export default function LandingPage() {
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
        <div className=" flex flex-row justify0-center items-center gap-2 w-[70%]">
-          <div>
+          <div className="w-[50%]">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Por que nos escolher?</h2>
           </div>
-          <div className="flex gap-2">
+          <div className="flex gap-2 w-[50%]">
             <ul className="gap-2 flex flex-col justify-self-end">
               <div className="flex items-center gap-2">
                 <li><img src="https://i.ibb.co/5XBgqTfM/icons8-ok-24-2.png" alt="" className="max-w-fit"/></li>
@@ -253,15 +253,15 @@ export default function LandingPage() {
       </section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
         <div className="flex flex-row gap-2 justify-center items-center w-[70%]">
-          <div>
-          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
-          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
-        </div>
-        <div className=" flex flex-col gap-2">
+          <div className="w-[50%]">
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
+          </div>
+          <div className=" flex flex-col gap-2 w-[50%]">
             <div>
               <h2>Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
             </div>
-            <div className="flex gap-2">
+            <div className="flex gap-2 w-[50%]">
               <ul className="gap-2 flex flex-col justify-self-end list-disc list-inside">
                 <div className="flex items-center gap-2">
                   <li>Redução de custos com manutenções emergenciais</li>
