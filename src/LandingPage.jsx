@@ -259,7 +259,7 @@ export default function LandingPage() {
             <h2>Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
           </div>
           <div className="flex gap-2">
-            <ul className="gap-2 flex flex-col justify-self-end list-disc">
+            <ul className="gap-2 flex flex-col justify-self-end list-disc list-inside">
               <div className="flex items-center gap-2">
                 <li>Redução de custos com manutenções emergenciais</li>
               </div>
