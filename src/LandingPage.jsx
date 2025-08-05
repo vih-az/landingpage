@@ -249,7 +249,7 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
-      <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-col justify-center items-center bg-[#0a3062] text-white">
+      <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white">
         <div>
           <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
           <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
