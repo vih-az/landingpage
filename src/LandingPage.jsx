@@ -30,6 +30,7 @@ export default function LandingPage() {
         </div>
         </div>
       </section>
+      <section className="h-[6px] bg-[#0a3062]"></section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
         <div>
           <div>
