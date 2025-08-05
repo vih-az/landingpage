@@ -77,8 +77,10 @@ export default function LandingPage() {
 
 
       <section className="bg-[#ffffff] py-12 px-6"  id="quemsomos">
-        <div className="max-w-4xl mx-auto flex flex-col gap-2">
-          <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
+        <div className="max-w-4xl mx-auto flex flex-row gap-2">
+          <div>
+            <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
+          </div>
           <p>
             Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
           </p>
@@ -95,9 +97,11 @@ export default function LandingPage() {
       </section>
 
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-        <div className=" flex flex-col gap-2">
-          <div>
+        <div>
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Fundadora e Diretora executiva</h2>
+          </div>
+        <div className=" flex flex-row gap-2">
+          <div>
             <h2 className="text-[#0a3062] font-semibold">Engª Esp. Giseli Azevedo</h2>
             <h2 className="text-justify">Especialista em patologias da construção, com sólida atuação em consultorias, desenvolvimento de soluções técnicas e participação ativa em normas da ABNT e do IBI.</h2>
           </div>
