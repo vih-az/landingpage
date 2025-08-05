@@ -182,9 +182,12 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-col justify-center items-center">
-       <div className=" flex flex-col gap-2">
+       <div className=" flex flex-row gap-2">
+        <div>
+          <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
+        </div>
+        <div>
           <div>
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Quem atendemos</h2>
             <h2 className="text-[#0a3062] font-semibold">Atendemos condomínios residenciais e comerciais, com foco em:</h2>
           </div>
           <div className="flex gap-2">
@@ -211,6 +214,7 @@ export default function LandingPage() {
               </div>
             </ul>
           </div>
+        </div>
         </div>
       </section>
 
