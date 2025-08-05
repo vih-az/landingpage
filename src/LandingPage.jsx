@@ -23,7 +23,7 @@ export default function LandingPage() {
           </Button> */}
       </header>
 <section className=" mx-auto bg-[#0a3062] w-full h-[34rem] flex flex-col justify-center items-center bg-[url(https://i.postimg.cc/jjsVDgxs/Design-sem-nome-4-1.png)] text-white bg-no-repeat bg-center bg-cover">
-       <div className=" flex flex-col gap-2 w-full h-full z-10 bg-linear-[90deg,rgba(10, 48, 98, 1) 0%, rgba(255, 255, 255, 0) 100%]">
+       <div className=" flex flex-col gap-2 w-full h-full z-10 bg-linear-[90deg,#0A3062_0%,#FFFFFF_100%]">
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#0a3062] text-white w-ful flex flex-col justify-center items-center">
