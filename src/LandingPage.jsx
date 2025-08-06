@@ -79,7 +79,7 @@ export default function LandingPage() {
       <section className="bg-[#dddddd] py-12 px-6  w-full flex flex-row justify-center items-center gap-2"  id="quemsomos">
         <div className="flex justify-center items-center gap-2 w-[70%]">
           <div className="flex justify-center items-center w-[40%]">
-            <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
+            <h2 className="text-2xl font-semibold mb-6 text-[#0d68c9]" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           </div>
           <div className="max-w-4xl flex flex-col gap-2 w-[60%]">
             <p className="text-justify">
@@ -254,14 +254,13 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
         <div className="flex flex-row gap-2 justify-center items-center w-[70%]">
           <div className="w-[40%] flex flex-col justify-center items-center">
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e</h2>
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Resultados</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e Resultados</h2>
           </div>
           <div className=" flex flex-col gap-2 w-[60%]">
             <div>
               <h2>Mais de 100 projetos realizados com excelência em SP, RJ e MG.</h2>
             </div>
-            <div className="flex gap-2 w-[50%]">
+            <div className="flex gap-2">
               <ul className="gap-2 flex flex-col justify-self-end list-disc list-inside">
                 <div className="flex items-center gap-2">
                   <li>Redução de custos com manutenções emergenciais</li>
