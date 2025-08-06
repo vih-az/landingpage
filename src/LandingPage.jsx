@@ -82,13 +82,13 @@ export default function LandingPage() {
             <h2 className="text-2xl font-semibold mb-6" style={{ fontFamily: 'Felix Titling, serif' }}>Quem Somos</h2>
           </div>
           <div className="max-w-4xl flex flex-col gap-2 w-[60%]">
-            <p>
+            <p className="text-justify">
               Com mais de 20 anos de experiência no setor da construção civil, a Nó em Pingo D’Água nasceu para atender uma dor real:
             </p>
-            <p>
+            <p className="text-justify">
               Condomínios que precisam de orientação técnica especializada em impermeabilização.
             </p>
-            <p>
+            <p className="text-justify">
               Oferecemos consultoria de alto nível com foco em soluções duradouras, redução de custos e valorização dos ativos.
             </p>
           </div>
