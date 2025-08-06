@@ -130,7 +130,7 @@ export default function LandingPage() {
           <div className="w-[40%] flex justify-center items-center">
             <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Nossa estrutura</h2>
           </div>
-          <div className="w-[60%] flex flex-col gap-2">
+          <div className="w-[60%] flex flex-col justify-center items-center gap-2">
             <div>
               <h2 className="justify-self-center text-justify">Nosso modelo de atuação é colaborativo e estratégico. Trabalhamos com os melhores especialistas do setor, combinando know-how técnico com execução eficaz.</h2>
             </div>
