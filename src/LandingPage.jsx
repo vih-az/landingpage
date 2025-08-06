@@ -254,7 +254,7 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#0a3062] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
         <div className="flex flex-row gap-2 justify-center items-center w-[70%]">
           <div className="w-[40%] flex flex-col justify-center items-center">
-            <h2 className="text-2xl font-semibold mb-4 text-[#0d68c9] justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e Resultados</h2>
+            <h2 className="text-2xl font-semibold mb-4 text-white justify-self-start" style={{ fontFamily: 'Felix Titling, serif' }}>Cases e Resultados</h2>
           </div>
           <div className=" flex flex-col gap-2 w-[60%]">
             <div>
