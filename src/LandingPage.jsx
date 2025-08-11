@@ -279,7 +279,7 @@ export default function LandingPage() {
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
         <div className="flex flex-row gap-2 justify-center items-center w-[80%]">
           <div className="flex flex-col gap-2 w-[50%] text-[#74726e]">
-            <img src="https://i.postimg.cc/GpVgJP7p/loogo-04l-1.png" alt=""/>
+            <img src="https://i.postimg.cc/vmxbNL0y/loogo-04l-1.png" alt=""/>
             <div className="flex gap-2">
               <img width="24" height="24" src="https://img.icons8.com/ios/50/new-post--v1.png" alt="new-post--v1"/>
               <h1>engenharia@noempingodagua.com.br</h1>
