@@ -277,7 +277,7 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
-        <div className="flex flex-row gap-2 justify-center items-center w-[80%]">
+        <div className="flex flex-col md:flex-row gap-2 justify-center items-center w-[80%]">
           <div className="flex flex-col gap-2 w-[50%] text-[#74726e]">
             <img src="https://i.postimg.cc/vmxbNL0y/loogo-04l-1.png" alt=""/>
             <div className="flex gap-2">
