@@ -298,7 +298,7 @@ export default function LandingPage() {
               <input type="email" name="" id="email" placeholder="Coloque seu email" className="border-2 border-[#74726e] rounded-sm pl-1"/>
               <input type="tel" name="" id="telefone" placeholder="Coloque seu telefone" className="border-2 border-[#74726e] rounded-sm pl-1"/>
               <textarea name="" id="mensagem" className="border-2 border-[#74726e] rounded-sm pl-1" placeholder="Coloque sua mensagem"></textarea>
-              <button type="submit" className="rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-xs">Enviar</button>
+              <button type="submit" className="rounded-md bg-[#0a3062] px-3 py-2 text-sm font-semibold text-white shadow-xs">Enviar</button>
             </form>
           </div>
         </div>
