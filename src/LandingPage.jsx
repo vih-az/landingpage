@@ -278,7 +278,7 @@ export default function LandingPage() {
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
         <div className="flex flex-row gap-2 justify-center items-center w-[80%]">
-          <div className="flex flex-col gap-2 w-[50%] text-[#dddddd]">
+          <div className="flex flex-col gap-2 w-[50%] text-[#74726e]">
             <img src="https://i.postimg.cc/GpVgJP7p/loogo-04l-1.png" alt=""/>
             <h1>engenharia@noempingodagua.com.br</h1>
             <h1>(11) 91716-5721</h1>
@@ -286,9 +286,9 @@ export default function LandingPage() {
           </div>
           <div className="w-[50%]">
             <form action="" method="post" className="flex flex-col gap-2">
-              <input type="text" name="" id="" placeholder="Coloque seu nome" className="border"/>
-              <input type="email" name="" id="" placeholder="Coloque seu email" className="border"/>
-              <input type="tel" name="" id="" placeholder="Coloque seu telefone" className="border"/>
+              <input type="text" name="" id="" placeholder="Coloque seu nome" className="border border-[#74726e]"/>
+              <input type="email" name="" id="" placeholder="Coloque seu email" className="border border-[#74726e]"/>
+              <input type="tel" name="" id="" placeholder="Coloque seu telefone" className="border border-[#74726e]"/>
               <textarea name="" id=""></textarea>
             </form>
           </div>
