@@ -278,7 +278,7 @@ export default function LandingPage() {
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
         <div className="flex flex-col md:flex-row gap-2 justify-center items-center w-full md:w-[80%]">
-          <div className="flex flex-col gap-2 w-[50%] text-[#74726e]">
+          <div className="flex flex-col gap-2 w-full md:w-[50%] text-[#74726e]">
             <img src="https://i.postimg.cc/vmxbNL0y/loogo-04l-1.png" alt=""/>
             <div className="flex gap-2">
               <img width="24" height="24" src="https://img.icons8.com/ios/50/new-post--v1.png" alt="new-post--v1"/>
@@ -292,7 +292,7 @@ export default function LandingPage() {
               <img width="24" height="24" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
             </a>
           </div>
-          <div className="w-[50%]">
+          <div className="w-full md:w-[50%]">
             <form action="https://api.staticforms.xyz/submit" method="post" className="flex flex-col gap-2 text-[#74726e]">
               <input type="text" name="nome" id="nome" placeholder="Nome*" className="border border-[#74726e] rounded-sm pl-1" required autoComplete="off"/>
               <input type="email" name="email" id="email" placeholder="E-mail*" className="border border-[#74726e] rounded-sm pl-1" required autoComplete="off"/>
