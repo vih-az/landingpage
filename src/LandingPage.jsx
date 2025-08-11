@@ -281,7 +281,7 @@ export default function LandingPage() {
           <div className="flex flex-col gap-2 w-[50%] text-[#74726e]">
             <img src="https://i.postimg.cc/GpVgJP7p/loogo-04l-1.png" alt=""/>
             <div className="flex gap-2">
-              <img width="24" height="24" src="https://img.icons8.com/ios/50/new-post--v1.png" alt="new-post--v1"/>
+              <img width="24" height="24" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
               <h1>engenharia@noempingodagua.com.br</h1>
             </div>
             <div className="flex gap-2">
