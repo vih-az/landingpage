@@ -1,3 +1,9 @@
 export default function Pagina() {
-    return (1)
+    return (
+        <div>
+            <h1>
+                Obrigado!
+            </h1>
+        </div>
+    )
 }

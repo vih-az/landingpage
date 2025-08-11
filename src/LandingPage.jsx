@@ -300,7 +300,7 @@ export default function LandingPage() {
               <textarea name="mensagem" id="mensagem" className="border border-[#74726e] rounded-sm pl-1" placeholder="Mensagem*" required></textarea>
               <button type="submit" className="rounded-md bg-[#0a3062] px-3 py-2 text-sm font-semibold text-white shadow-xs w-fit">Enviar</button>
 
-              <input type="hidden" name="redirectTo" value="https://example.com/success"></input>
+              <input type="hidden" name="redirectTo" value="./src/pagina.jsx"></input>
               <input type="hidden" name="apiKey" value="sf_05h5ik6me5j4n5cb67akifi1"></input>
             </form>
           </div>
