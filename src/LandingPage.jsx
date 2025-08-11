@@ -285,7 +285,7 @@ export default function LandingPage() {
               <h1>engenharia@noempingodagua.com.br</h1>
             </div>
             <div className="flex gap-2">
-              <img width="24" height="24" src="https://img.icons8.com/material-outlined/24/whatsapp--v1.png" alt="whatsapp--v1"/>
+              <img width="24" height="24" src="https://img.icons8.com/ios/50/whatsapp.png" alt="whatsapp"/>
               <h1>engenharia@noempingodagua.com.br</h1>
             </div>
             <h1>(11) 91716-5721</h1>
