@@ -277,16 +277,16 @@ export default function LandingPage() {
         </div>
       </section>
       <section className="py-12 px-6 mx-auto bg-[#ffffff] w-full flex flex-row justify-center items-center bg-[#0a3062] text-white gap-2">
-        <div className="flex flex-col md:flex-row gap-2 justify-center items-center w-[80%]">
+        <div className="flex flex-col md:flex-row gap-2 justify-center items-center w-full md:w-[80%]">
           <div className="flex flex-col gap-2 w-[50%] text-[#74726e]">
             <img src="https://i.postimg.cc/vmxbNL0y/loogo-04l-1.png" alt=""/>
             <div className="flex gap-2">
               <img width="24" height="24" src="https://img.icons8.com/ios/50/new-post--v1.png" alt="new-post--v1"/>
-              <h1 className="font-sm">engenharia@noempingodagua.com.br</h1>
+              <h1 className="text-sm">engenharia@noempingodagua.com.br</h1>
             </div>
             <div className="flex gap-2">
               <img width="24" height="24" src="https://img.icons8.com/ios/50/whatsapp.png" alt="whatsapp"/>
-              <h1 className="font-sm">(11) 91716-5721</h1>
+              <h1 className="text-sm">(11) 91716-5721</h1>
             </div>
             <a href="https://www.instagram.com/noempingodaguaconsultoria?igsh=Y21zOWdpMmRwZG02" target="_blank">
               <img width="24" height="24" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
