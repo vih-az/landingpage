@@ -286,10 +286,10 @@ export default function LandingPage() {
           </div>
           <div className="w-[50%]">
             <form action="" method="post" className="flex flex-col gap-2">
-              <input type="text" name="" id="" placeholder="Coloque seu nome" className="border-2 border-[#74726e] rounded-sm"/>
-              <input type="email" name="" id="" placeholder="Coloque seu email" className="border-2 border-[#74726e] rounded-sm"/>
-              <input type="tel" name="" id="" placeholder="Coloque seu telefone" className="border-2 border-[#74726e] rounded-sm"/>
-              <textarea name="" id="" className="border-2 border-[#74726e] rounded-sm" placeholder="Coloque sua mensagem"></textarea>
+              <input type="text" name="" id="nome" placeholder="Coloque seu nome" className="border-2 border-[#74726e] rounded-sm"/>
+              <input type="email" name="" id="email" placeholder="Coloque seu email" className="border-2 border-[#74726e] rounded-sm"/>
+              <input type="tel" name="" id="telefone" placeholder="Coloque seu telefone" className="border-2 border-[#74726e] rounded-sm"/>
+              <textarea name="" id="mensagem" className="border-2 border-[#74726e] rounded-sm" placeholder="Coloque sua mensagem"></textarea>
             </form>
           </div>
         </div>
