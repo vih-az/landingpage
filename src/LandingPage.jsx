@@ -288,7 +288,9 @@ export default function LandingPage() {
               <img width="24" height="24" src="https://img.icons8.com/ios/50/whatsapp.png" alt="whatsapp"/>
               <h1>(11) 91716-5721</h1>
             </div>
-            <img width="24" height="24" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
+            <a href="https://www.instagram.com/noempingodaguaconsultoria?igsh=Y21zOWdpMmRwZG02">
+              <img width="24" height="24" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
+            </a>
           </div>
           <div className="w-[50%]">
             <form action="" method="post" className="flex flex-col gap-2 text-[#74726e]">
@@ -296,6 +298,7 @@ export default function LandingPage() {
               <input type="email" name="" id="email" placeholder="Coloque seu email" className="border-2 border-[#74726e] rounded-sm pl-1"/>
               <input type="tel" name="" id="telefone" placeholder="Coloque seu telefone" className="border-2 border-[#74726e] rounded-sm pl-1"/>
               <textarea name="" id="mensagem" className="border-2 border-[#74726e] rounded-sm pl-1" placeholder="Coloque sua mensagem"></textarea>
+              <button type="submit" className="rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-xs">Enviar</button>
             </form>
           </div>
         </div>
