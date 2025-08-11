@@ -293,12 +293,14 @@ export default function LandingPage() {
             </a>
           </div>
           <div className="w-[50%]">
-            <form action="" method="post" className="flex flex-col gap-2 text-[#74726e]">
-              <input type="text" name="" id="nome" placeholder="Nome*" className="border border-[#74726e] rounded-sm pl-1"/>
-              <input type="email" name="" id="email" placeholder="E-mail*" className="border border-[#74726e] rounded-sm pl-1"/>
-              <input type="tel" name="" id="telefone" placeholder="Telefone com DDD*" className="border border-[#74726e] rounded-sm pl-1"/>
-              <textarea name="" id="mensagem" className="border border-[#74726e] rounded-sm pl-1" placeholder="Mensagem*"></textarea>
+            <form action="https://api.staticforms.xyz/submit" method="post" className="flex flex-col gap-2 text-[#74726e]">
+              <input type="text" name="" id="nome" placeholder="Nome*" className="border border-[#74726e] rounded-sm pl-1" required autoComplete="off"/>
+              <input type="email" name="" id="email" placeholder="E-mail*" className="border border-[#74726e] rounded-sm pl-1" required autoComplete="off"/>
+              <input type="tel" name="" id="telefone" placeholder="Telefone com DDD*" className="border border-[#74726e] rounded-sm pl-1" required/>
+              <textarea name="" id="mensagem" className="border border-[#74726e] rounded-sm pl-1" placeholder="Mensagem*" required></textarea>
               <button type="submit" className="rounded-md bg-[#0a3062] px-3 py-2 text-sm font-semibold text-white shadow-xs w-fit">Enviar</button>
+
+               <input type="hidden" name="apiKey" value="sf_05h5ik6me5j4n5cb67akifi1"></input>
             </form>
           </div>
         </div>
