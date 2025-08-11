@@ -288,7 +288,7 @@ export default function LandingPage() {
               <img width="24" height="24" src="https://img.icons8.com/ios/50/whatsapp.png" alt="whatsapp"/>
               <h1>(11) 91716-5721</h1>
             </div>
-            <a href="https://www.instagram.com/noempingodaguaconsultoria?igsh=Y21zOWdpMmRwZG02">
+            <a href="https://www.instagram.com/noempingodaguaconsultoria?igsh=Y21zOWdpMmRwZG02" target="_blank">
               <img width="24" height="24" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
             </a>
           </div>
