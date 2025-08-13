@@ -1,6 +1,6 @@
-export default function Pagina() {
+export default function Obrigado() {
     return (
-        <div className="h-fulll w-full">
+        <div className="h-full w-full flex flex-col justify-center items-center">
             <h1>
                 Obrigado!
             </h1>

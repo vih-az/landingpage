@@ -1,7 +1,6 @@
 import React from "react";
 //import { Button } from "@/components/ui/button";
 //import "@fontsource-variable/inter";
-
 export default function LandingPage() {
   return (
     <div className="bg-[#dddddd] text-[#74726e] font-[Arial,sans-serif] h-full">
@@ -293,7 +292,7 @@ export default function LandingPage() {
             </a>
           </div>
           <div className="w-full md:w-[50%]">
-            <form action="https://api.staticforms.xyz/submit" method="post" className="flex flex-col gap-2 text-[#74726e]">
+            <form action="https://api.staticforms.xyz/submit" method="post" className="flex flex-col gap-2 text-[#74726e]" id="form">
               <input type="text" name="nome" id="nome" placeholder="Nome*" className="border border-[#74726e] rounded-sm pl-1" required autoComplete="off"/>
               <input type="email" name="email" id="email" placeholder="E-mail*" className="border border-[#74726e] rounded-sm pl-1" required autoComplete="off"/>
               <input type="tel" name="telefone" id="telefone" placeholder="Telefone com DDD*" className="border border-[#74726e] rounded-sm pl-1" required/>
