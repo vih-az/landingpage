@@ -6,9 +6,9 @@ import './index.css';
 import Errorpage from "./routes/Errorpage";
 import Obrigado from './routes/pagina';
 
-import{ createBrowserRouter, RouterProvider} from "react-router-dom";
+import{ createHashRouter, RouterProvider} from "react-router-dom";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <LandingPage/>,
