@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom"
+
+
 export default function Obrigado() {
     return (
         <div className="h-full w-full flex flex-col justify-center items-center">
@@ -5,7 +8,7 @@ export default function Obrigado() {
                 Obrigado!
             </h1>
             <h1>Em breve entraremos em contato</h1>
-            <a href="">Home</a>
+            <Link to="/">Home</Link>
         </div>
     )
 }
